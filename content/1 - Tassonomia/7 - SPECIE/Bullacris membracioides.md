@@ -9,7 +9,7 @@
 ### Livello Specie
 
 Tassonomia  
-Appartiene alla famiglia: [[Pneumoridae]]
+Appartiene alla famiglia: [[Pneumoridae 1]]
 
 Collocazione geografica e habitat  
 Bioma principale: [[prateria]]  
