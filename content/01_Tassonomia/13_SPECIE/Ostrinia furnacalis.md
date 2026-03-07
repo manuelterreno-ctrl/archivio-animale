@@ -13,7 +13,7 @@ Appartiene al genere: [[Ostrinia]]
 
 Collocazione geografica e habitat  
 • Bioma principale: [[zona agricola]]  
-• Regione biogeografica: [[asia]]  
+• Regione biogeografica: [[Asia]]  
 • Nicchia ecologica: falena notturna con comunicazione ultrasonica a corto raggio
 
 ---

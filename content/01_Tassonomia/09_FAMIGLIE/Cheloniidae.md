@@ -8,7 +8,7 @@
 ### Livello: Famiglia
 
 **Tassonomia**  
-Appartiene all’ordine: [[1 - Tassonomia/3. ORDINI/Testudines]]
+Appartiene all’ordine: [[Testudines]]
 
 **Collocazione geografica e habitat**  
 - Bioma principale: [[habitat acquatico]]  
