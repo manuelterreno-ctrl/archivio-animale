@@ -56,13 +56,10 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-Plugin.CreatedModifiedDate({
-  priority: ["frontmatter", "git", "filesystem"],
-}),
-Plugin.RemovePrefix({
-  prefixes: ["01_", "02_", "03_", "04_", "05_", "06_", "07_", "08_", "09_", "10_", "11_", "12_"]
-}),
-Plugin.SyntaxHighlighting({
+      Plugin.CreatedModifiedDate({
+        priority: ["frontmatter", "git", "filesystem"],
+      }),
+      Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
           dark: "github-dark",
