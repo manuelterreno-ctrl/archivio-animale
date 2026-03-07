@@ -24,7 +24,7 @@ Popolazioni che vivono in **foreste più scure** mostrano piumaggi **più brilla
 Quando la luce ambientale diminuisce — soprattutto nel sottobosco denso — i segnali visivi rischiano di perdere efficienza; la selezione favorisce quindi colorazioni più sature per mantenere la discriminabilità tra individui, in particolare durante la comunicazione sociale e riproduttiva.  
 La brillantezza diventa così un adattamento compensatorio alla perdita di salienza percettiva.
 
-Temi trasversali: [[comunicazione visiva]] · [[percezione]] · [[selezione sessuale]] · [[habitat]] 
+Temi trasversali: [[comunicazione visiva]] · [[percezione]] · [[selezione sessuale]] · [[Habitat]] 
 
 ### Traduzione narrativa  
 Nei *Phylloscopus*, la luce è misura e limite.  
