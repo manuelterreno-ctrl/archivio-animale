@@ -1,3 +1,6 @@
+---
+title: Benvenuto
+---
 Questo è l’Archivio Animale.
 
 Un archivio in continua evoluzione in cui materiali scientifici sugli esseri viventi vengono raccolti, organizzati e trasformati in elementi narrativi per la costruzione di personaggi animali non umani.
