@@ -34,6 +34,7 @@ beforeBody: [
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
