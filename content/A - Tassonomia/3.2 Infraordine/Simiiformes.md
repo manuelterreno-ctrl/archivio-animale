@@ -64,3 +64,17 @@ Temi trasversali: [[visione]] · [[riconoscimento_oggetti]] · [[prospettiva]] �
 #cognizione/elaborazione_locale  
 
 Fonte: *How Animals See the World*, **cap. 13**
+
+---
+
+Evidenze scientifiche  
+Le scimmie sono indicate come organismi in cui è stata verificata l'elaborazione "bottom-up" delle caratteristiche visive semplici, come orientamento e colore, nella corteccia visiva primaria, supportando la teoria dell'integrazione delle caratteristiche. Il loro sistema visivo funge da modello per teorie che implicano una competizione per l'accesso alle risorse cerebrali limitate, risolta dall'[[attenzione visiva]] "top-down".
+
+Temi trasversali: [[visione]] · [[attenzione visiva]] · [[riconoscimento degli oggetti]]
+
+Traduzione narrativa  
+Il personaggio *Simiiformes* costruisce la realtà dal basso verso l'alto: prima percepisce i lampi grezzi di colore e le linee inclinate, e solo successivamente, grazie a uno sforzo attivo della mente, assembla questi frammenti in oggetti dotati di senso. Per *Simiiformes*, la visione è un processo di costruzione rapida dove le risorse mentali sono il collo di bottiglia: non può “vedere” tutto, deve scegliere attivamente cosa assemblare per non essere sopraffatto dai dati grezzi.
+
+#sensi/visione #cognizione/attenzione #cognizione/percezione
+
+Fonte: *How Animals See the World*, cap. 18

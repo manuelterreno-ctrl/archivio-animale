@@ -167,3 +167,31 @@ Il personaggio possiede un cervello visivo flessibile e ridondante. Se una parte
 #evoluzione/comparata  
 
 Fonte: *How Animals See the World*, **cap. 16**
+
+---
+
+Evidenze scientifiche  
+I primati vivono prevalentemente in foreste dense dove la luce è variabile e gli ostacoli frequenti; in questo contesto, i segnali di movimento risultano più informativi rispetto a forma o colore grazie alla loro invarianza. Il loro sistema visivo utilizza il flusso ottico e l'espansione visiva per determinare la propria velocità, direzione e la distanza degli oggetti. Possiedono la capacità di estrarre la struttura dal movimento (Structure from Motion), che permette di rivelare prede camuffate altrimenti invisibili e di percepire la tridimensionalità a partire da segnali di movimento bidimensionali. Inoltre, meccanismi specializzati nel solco temporale superiore consentono la rilevazione del movimento biologico, permettendo ai primati di inferire genere, stato emotivo e intenzioni osservando semplicemente i pattern di movimento di altri individui. I primati diurni, in particolare, integrano questa capacità con la [[visione a colori]] per localizzare frutti maturi.
+
+Temi trasversali: [[percezione del movimento]] · [[movimento biologico]] · [[visione a colori]]
+
+Traduzione narrativa  
+Il personaggio non si fida delle forme statiche, che nella giungla sono ingannevoli e mutevoli a causa delle ombre. La sua verità visiva risiede nel movimento: il mondo diventa nitido e comprensibile solo quando scorre. Naviga calcolando istantaneamente il flusso visivo che lo circonda e possiede uno sguardo “a raggi X” cinetici: una preda immobile è invisibile, ma appena trema, la sua forma tridimensionale esplode nella percezione. È un empatico del movimento: gli basta osservare come si muove un’ombra lontana per coglierne intenzioni e stato d’animo.
+
+#sensi/visione #sensi/percezione_movimento #ecologia/orientamento #ecologia/foraggiamento
+
+Fonte: *How Animals See the World*, cap. 17
+
+---
+
+Evidenze scientifiche  
+I primati possiedono vie visive altamente sviluppate ma una capacità limitata di processare simultaneamente tutte le informazioni disponibili, necessitando di meccanismi di selezione per concentrarsi su stimoli rilevanti come cibo o predatori. Il loro sistema visivo è specializzato in due flussi funzionali: uno ventrale per l'identificazione degli oggetti e uno dorsale per l'elaborazione delle informazioni spaziali e dell'azione. Vivendo spesso in foreste dense, per questi animali i segnali di movimento risultano frequentemente più affidabili della forma o del colore per l'individuazione di bersagli, a causa dei continui cambiamenti di luce e delle ostruzioni visive. I primati diurni sfruttano inoltre la [[visione a colori]] per identificare frutti maturi nel fogliame. Sono anche in grado di percepire gli oggetti come entità coerenti anche quando risultano parzialmente oscurati da elementi dell'ambiente.
+
+Temi trasversali: [[attenzione visiva]] · [[percezione del movimento]] · [[visione a colori]] · [[permanenza dell'oggetto]]
+
+Traduzione narrativa  
+Il personaggio si muove in un ambiente visivo frammentato e caotico, dove la luce mente e le forme si confondono. Per sopravvivere, il suo sguardo non cerca la stabilità dei contorni ma la verità del movimento: in una foresta che tremola di ombre, solo ciò che si muove è reale e affidabile. La sua percezione è un continuo atto di filtraggio, dove il rumore visivo della giungla viene soppresso per far emergere immediatamente il colore di un frutto o lo scatto di un predatore, mentre gli oggetti nascosti dietro foglie e rami vengono ricomposti in una forma coerente nella mente.
+
+#sensi/visione #cognizione/attenzione #ecologia/foraggiamento #ecologia/predazione
+
+Fonte: *How Animals See the World*, cap. 18

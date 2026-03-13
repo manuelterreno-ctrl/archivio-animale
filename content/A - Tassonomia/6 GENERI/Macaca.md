@@ -113,3 +113,45 @@ Temi trasversali: [[visione]] · [[categorizzazione]] · [[velocità_percettiva]
 #comportamento/decisione  
 
 Fonte: *How Animals See the World*, **cap. 13**
+
+---
+
+Evidenze scientifiche  
+Il sistema visivo dei macachi è citato come strettamente affine a quello umano. Questi animali dimostrano un'efficienza eccezionale nella categorizzazione degli oggetti, con tempi di reazione estremamente rapidi, spesso inferiori ai 200 millisecondi.
+
+Temi trasversali: [[visione]] · [[riconoscimento degli oggetti]] · [[decisione]]
+
+Traduzione narrativa  
+Il personaggio possiede una percezione “a scatto”, priva di latenza. Non c'è pausa tra il vedere e il capire: l'identificazione di un oggetto o di una minaccia è un processo quasi istantaneo, un riflesso cognitivo che classifica la realtà in una frazione di secondo.
+
+#sensi/visione #cognizione/categorizzazione #cognizione/decisione
+
+Fonte: *How Animals See the World*, cap. 17
+
+---
+
+Evidenze scientifiche  
+I macachi sono citati come modello specifico per comprendere la neurofisiologia dell'[[attenzione visiva]]. Nella loro corteccia inferotemporale (IT), i neuroni elaborano stimoli complessi combinando colore e forma. Studi sulle aree V2 e V4 dei macachi supportano la teoria della "competizione polarizzata": quando l'attenzione è focalizzata su uno specifico oggetto, la risposta neurale si allinea esclusivamente con quell'oggetto, sopprimendo i segnali degli altri stimoli presenti nello stesso campo visivo, come se il neurone "vedesse" soltanto ciò che è attenzionato.
+
+Temi trasversali: [[attenzione visiva]] · [[selezione attentiva]] · [[riconoscimento degli oggetti]]
+
+Traduzione narrativa  
+Il personaggio *Macaca mulatta* possiede una visione “a tunnel” neurale. Il suo mondo non è una somma democratica di tutto ciò che ha davanti; nel momento in cui sceglie di guardare qualcosa, il resto della realtà viene letteralmente cancellato dal suo cervello. Gli oggetti competono per la sua coscienza visiva e solo il vincitore — quello su cui cade la sua attenzione — esiste davvero a livello neurale. Per *M. mulatta*, tutto il resto svanisce nel nulla percettivo finché il focus non si sposta.
+
+#sensi/visione #cognizione/attenzione #cognizione/selezione_attentiva
+
+Fonte: *How Animals See the World*, cap. 18
+
+---
+
+Evidenze scientifiche  
+Le specie del genere *Macaca* condividono con i babbuini una modalità di elaborazione locale delle informazioni visive. Nei macachi l'elaborazione percettiva tende quindi a privilegiare i dettagli rispetto alla struttura globale degli stimoli. Alcuni studi hanno suggerito un possibile vantaggio globale nella percezione visiva di *Macaca*, ma tali risultati sono considerati controversi e potrebbero dipendere da condizioni sperimentali specifiche, come l'iper-addestramento o la particolare natura degli stimoli utilizzati, piuttosto che riflettere una tendenza percettiva naturale.
+
+Temi trasversali: [[visione]] · [[riconoscimento degli oggetti]] · [[attenzione visiva]]
+
+Traduzione narrativa  
+*Macaca* è un osservatore analitico per natura. L'attenzione di *Macaca* cade istintivamente sul particolare: il dettaglio emerge prima dell'insieme. Anche se *Macaca* può imparare a cogliere la forma globale di una scena, questa non è la modalità percettiva originaria. Per *Macaca*, la visione dell'insieme richiede uno sforzo acquisito, mentre il dettaglio rimane la verità immediata e spontanea dell'esperienza visiva.
+
+#sensi/visione #cognizione/attenzione #cognizione/percezione
+
+Fonte: *How Animals See the World*, cap. 20

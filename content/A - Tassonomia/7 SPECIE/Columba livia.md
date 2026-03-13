@@ -129,3 +129,31 @@ Temi trasversali: [[movimento]] · [[flusso_ottico]] · [[percezione_temporale]]
 #cognizione/categorizzazione  
 
 Fonte: *How Animals See the World*, **cap. 16**
+
+---
+
+Evidenze scientifiche  
+Il sistema visivo del piccione è funzionalmente diviso: il campo visivo inferiore è miope, quindi ottimizzato per oggetti molto vicini come il cibo, mentre quello superiore è emmetrope e focalizzato sull'orizzonte e sulla rilevazione dei predatori. I piccioni mostrano una precedenza cognitiva locale, elaborando i dettagli prima della struttura globale, e presentano un "effetto di superiorità dell'elemento", riconoscendo stimoli composti più velocemente dei singoli elementi. Percepiscono alcune illusioni visive, come l'[[illusione di Ponzo]], in modo simile agli esseri umani, ma interpretano l'[[illusione di Ebbinghaus]] in maniera opposta, suggerendo una diversa elaborazione del contesto dimensionale. Tendono inoltre a non completare mentalmente gli oggetti parzialmente occlusi e mostrano una dominanza dell'emisfero sinistro per la categorizzazione.
+
+Temi trasversali: [[visione]] · [[attenzione visiva]] · [[riconoscimento degli oggetti]]
+
+Traduzione narrativa  
+Il personaggio *Columba livia* vive con una doppia visione simultanea: il terreno sotto di lui è un microscopio per i dettagli minuscoli, mentre il cielo sopra è un telescopio per le minacce distanti. Per *C. livia*, la realtà non appare subito come un quadro completo: prima emergono i singoli frammenti, i dettagli isolati, i piccoli mattoni percettivi da cui il mondo è costruito. Se un oggetto viene parzialmente coperto, esso smette di esistere nella sua interezza; *C. livia* non ricostruisce mentalmente la parte nascosta ma si fida solo di ciò che è esplicitamente visibile. Anche le grandezze relative seguono logiche diverse: ciò che inganna l'occhio umano può apparire per ciò che è — o addirittura l'opposto — nella percezione del piccione.
+
+#sensi/visione #cognizione/attenzione #cognizione/categorizzazione #ecologia/foraggiamento
+
+Fonte: *How Animals See the World*, cap. 19
+
+---
+
+Evidenze scientifiche  
+*Columba livia* mostra difficoltà specifiche nel processare la forma complessiva di configurazioni di punti, indicando limiti nel [[raggruppamento percettivo]] degli stimoli visivi. Nelle analisi comparative della percezione, *C. livia* evidenzia una modalità di elaborazione prevalentemente locale, nella quale i singoli elementi visivi vengono analizzati prima della configurazione globale della scena, una tendenza simile a quella osservata nei babbuini.
+
+Temi trasversali: [[visione]] · [[raggruppamento percettivo]] · [[riconoscimento degli oggetti]]
+
+Traduzione narrativa  
+*Columba livia* percepisce il mondo come una collezione di granelli. Una figura composta da molti punti non diventa immediatamente un'immagine unita: per *C. livia* rimane una nuvola di entità separate. *C. livia* non unisce spontaneamente i puntini per rivelare un disegno nascosto; la realtà visiva appare come un campo granulare di elementi distinti, dove la sintesi percettiva non emerge automaticamente.
+
+#sensi/visione #cognizione/percezione #cognizione/attenzione
+
+Fonte: *How Animals See the World*, cap. 20

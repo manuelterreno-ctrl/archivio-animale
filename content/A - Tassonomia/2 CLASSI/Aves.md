@@ -227,13 +227,6 @@ Il suo spettro percettivo è più ampio: include colori segreti, come l’ultrav
 Fonte: *How Animals See the World*, **cap. 15**
 
 ---
-## *Uccelli*
-
-#tipo/uccello  
-#macrohabitat/aereo  
-#geo/continente/globale  
-
----
 
 ### Evidenze scientifiche
 Gli uccelli possiedono un’architettura neurale distinta da quella dei mammiferi. Il loro tetto ottico (TeO) è una struttura massiccia e sferica, composta da oltre 15 strati di neuroni, che funge da via principale per le informazioni visive e gestisce reazioni rapide e precise. Lesioni a questa struttura causano deficit permanenti, a differenza di quanto accade nei primati. Possiedono inoltre un Nucleo Isthmi molto sviluppato e vie neurali (entopallio) che dissociano la visione del movimento da quella spaziale. Molti uccelli vedono l’ultravioletto (UV), rendendo i video umani cromaticamente inaccurati ai loro occhi. Ecologicamente, potrebbero non dare priorità agli indizi pittorici di profondità nelle immagini bidimensionali, poiché tali rappresentazioni non hanno avuto un ruolo rilevante nella loro storia evolutiva.
@@ -248,3 +241,17 @@ Temi trasversali: [[visione]] · [[movimento]] · [[neuroanatomia]] · [[percezi
 #neurobiologia/mesencefalo  
 
 Fonte: *How Animals See the World*, **cap. 16**
+
+---
+
+Evidenze scientifiche  
+Gli uccelli vivono in un Umwelt sensoriale definito da una visione dei colori superiore a quella umana, estesa fino alla [[visione UV]]. Nonostante un'acuità spaziale generalmente inferiore, compensano con la capacità di avvicinarsi molto agli oggetti per coglierne i dettagli. La loro percezione temporale è molto rapida: possiedono una soglia di fusione del flicker elevata, che permette loro di percepire lo sfarfallio in luci o schermi che agli esseri umani appaiono stabili. Anatomicamente, gli occhi sono enormi rispetto al cranio (oltre il 50% del volume) e la retina possiede un'altissima densità di fotorecettori, spesso con multiple aree foveali. Il loro sistema nervoso privilegia una via visiva rapida che consente reazioni immediate e stereotipate, particolarmente importanti per comportamenti come la fuga e il volo. Esiste inoltre un sistema centrifugo capace di modulare l'attività della retina e di amplificare selettivamente le regioni visive su cui si concentra l'[[attenzione visiva]].
+
+Temi trasversali: [[visione]] · [[visione UV]] · [[attenzione visiva]] · [[percezione del movimento]]
+
+Traduzione narrativa  
+Il personaggio *Aves* possiede un sistema visivo cablato per la velocità estrema. Il suo mondo non è mai statico ma un flusso di dati ad alta frequenza, dove molte luci artificiali pulsano in modo fastidioso. La sua realtà è tinta di colori invisibili agli altri, nell'ultravioletto, che rivelano percorsi e segnali nascosti. Per *Aves*, vedere non significa semplicemente registrare immagini: il cervello può illuminare selettivamente porzioni dell'occhio come un riflettore interno, isolando il bersaglio dal rumore visivo circostante e permettendo una reazione quasi istantanea.
+
+#sensi/visione #sensi/visione_uv #cognizione/attenzione #ecologia/fuga
+
+Fonte: *How Animals See the World*, cap. 19

@@ -52,3 +52,17 @@ La solidità della realtà non è immediata né garantita. Troppa vicinanza spez
 #sviluppo/cognitivo  
 
 Fonte: *How Animals See the World*, **cap. 12**
+
+---
+
+Evidenze scientifiche  
+I pulcini di *Gallus gallus* mostrano una preferenza spontanea e innata per i modelli di [[movimento biologico]]. In condizioni sperimentali sono inoltre capaci di percepire la [[percezione della profondità]] e di completare percettivamente forme parziali, dimostrando abilità cognitive visive precoci già nelle prime fasi dello sviluppo.
+
+Temi trasversali: [[movimento biologico]] · [[percezione della profondità]] · [[riconoscimento degli oggetti]]
+
+Traduzione narrativa  
+*Gallus gallus* nasce con una “conoscenza visiva” pre-installata. Non deve imparare a riconoscere la vita: il suo cervello è programmato per attivarsi immediatamente di fronte a specifici pattern di movimento che segnalano un essere vivente. Per *G. gallus*, anche quando un oggetto è parzialmente nascosto, la mente tende a intuire la forma completa, permettendogli di orientarsi nello spazio con un'intuizione percettiva che va oltre il semplice dato retinico.
+
+#sensi/visione #cognizione/riconoscimento #cognizione/percezione_spaziale
+
+Fonte: *How Animals See the World*, cap. 19

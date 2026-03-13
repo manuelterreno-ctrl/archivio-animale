@@ -89,3 +89,31 @@ Temi trasversali: [[visione]] · [[completamento_amodale]] · [[illusioni_visive
 #cognizione/integrazione  
 
 Fonte: *How Animals See the World*, **cap. 7**
+
+---
+
+Evidenze scientifiche  
+Gli scimpanzé esibiscono una forma di attenzione definita "basata sull'oggetto". A differenza di una semplice attenzione spaziale, essi selezionano e seguono visivamente oggetti coerenti anche quando questi vengono parzialmente occlusi da ostacoli nell'ambiente.
+
+Temi trasversali: [[attenzione visiva]] · [[permanenza dell'oggetto]] · [[visione]]
+
+Traduzione narrativa  
+Il personaggio *Pan troglodytes* ha uno sguardo che “incolla” la realtà. Se il suo obiettivo passa dietro un tronco d'albero, la sua mente non vede due eventi separati (scomparsa e riapparizione), ma mantiene un focus continuo sull'entità nascosta. Per *P. troglodytes*, la visione ignora il disordine visivo della foresta e resta agganciata all'identità fisica dell'oggetto osservato.
+
+#sensi/visione #cognizione/attenzione #cognizione/permanenza_oggetto
+
+Fonte: *How Animals See the World*, cap. 17
+
+---
+
+Evidenze scientifiche  
+Le specie del genere *Pan* sono citate negli studi comparativi sulla percezione visiva come primati che mostrano una modalità di elaborazione prevalentemente locale. In questi primati l'analisi percettiva tende quindi a privilegiare i dettagli rispetto alla struttura globale degli stimoli visivi, un risultato che li allinea ai pattern osservati anche in babbuini e macachi.
+
+Temi trasversali: [[visione]] · [[riconoscimento degli oggetti]] · [[attenzione visiva]]
+
+Traduzione narrativa  
+*Pan troglodytes* frammenta la realtà visiva in componenti elementari. Di fronte a una scena complessa, *P. troglodytes* non cerca immediatamente l'armonia dell'insieme ma scompone l'immagine nei suoi elementi costitutivi. Per *P. troglodytes*, i singoli pezzi emergono prima del quadro completo, e la percezione procede dal dettaglio verso l'eventuale ricostruzione dell'intera scena.
+
+#sensi/visione #cognizione/percezione #cognizione/attenzione
+
+Fonte: *How Animals See the World*, cap. 20

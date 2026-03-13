@@ -66,3 +66,17 @@ Temi trasversali: [[illusione_visiva]] · [[percezione_della_forma]] · [[predaz
 #comportamento/caccia  
 
 Fonte: *How Animals See the World*, **cap. 8**
+
+---
+
+Evidenze scientifiche  
+I gufi presentano occhi frontali con un'ampia sovrapposizione binoculare che garantisce una stereopsi globale per la percezione tridimensionale dell'ambiente. Questa configurazione visiva è funzionalmente simile a quella umana e permette una valutazione molto precisa delle distanze. In specie come il barbagianni (*Tyto alba*), è stata inoltre documentata la capacità di percepire [[contorni illusori]]. In questi uccelli la via visiva talamofugale potrebbe svolgere un ruolo particolarmente importante nell'elaborazione della visione binoculare.
+
+Temi trasversali: [[visione]] · [[visione binoculare]] · [[percezione della profondità]]
+
+Traduzione narrativa  
+Il personaggio *Tyto alba* è un calcolatore di profondità assoluta. A differenza di molti altri uccelli, non ha bisogno di muovere la testa per stimare le distanze: il suo sguardo frontale attraversa l'oscurità costruendo una mappa tridimensionale precisa e stabile dell'ambiente. Per *T. alba*, anche linee spezzate e frammentarie nel buio possono unirsi in una forma coerente: il cervello completa i contorni e rivela la presenza della preda prima ancora che questa sia completamente visibile.
+
+#sensi/visione #sensi/visione_binoculare #cognizione/percezione_spaziale #ecologia/predazione
+
+Fonte: *How Animals See the World*, cap. 19
