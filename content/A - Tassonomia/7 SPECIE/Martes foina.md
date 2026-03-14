@@ -1513,3 +1513,459 @@ Fonte: *Monitoring the small-scale distribution of sympatric European pine marte
 
 #ecologia/dieta
 #ecologia/predazione
+
+---
+Evidenze scientifiche  
+L'espansione della martora [[Martes martes]] nella pianura padana è associata a uno spostamento spaziale della faina [[Martes foina]] dalle residue aree forestali. Nelle zone di simpatria tra le due specie, la faina mostra una compressione della propria nicchia ecologica e tende a occupare principalmente ambienti deforestati, paesaggi agricoli e aree suburbane.
+
+Traduzione narrativa  
+Quando [[Martes martes]] si espande nei corridoi forestali della pianura, [[Martes foina]] abbandona progressivamente l’ombra compatta degli alberi. Le sue traiettorie si riallineano lungo campi coltivati, margini rurali e periferie urbane, dove l’animale ridisegna il proprio dominio vitale evitando la sovrapposizione diretta con il competitore forestale.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/competizione
+#ecologia/uso_habitat
+#tipo/mammifero 
+
+---
+Evidenze scientifiche  
+In condizioni di simpatria con la martora [[Martes martes]], la faina [[Martes foina]] modifica significativamente la propria dieta. In presenza del competitore forestale diminuisce il consumo di prede animali e aumenta quello di frutti, mostrando una dieta con una proporzione più elevata di carboidrati e una minore quota di proteine rispetto al fabbisogno nutrizionale ottimale della specie. Questo cambiamento trofico indica una risposta alla competizione interspecifica.
+
+Traduzione narrativa  
+Quando i segnali territoriali di [[Martes martes]] saturano il paesaggio, [[Martes foina]] attenua l’inseguimento della carne viva. Le sue rotte alimentari si spostano verso la polpa zuccherina dei frutti sparsi nel territorio. L’animale accetta un bilancio nutrizionale imperfetto pur di evitare la sovrapposizione diretta con il competitore dominante.
+
+Fonte  
+*Nutritional ecology of martens (Martes foina and Martes martes) in the western Italian Alps*
+
+#ecologia/interazioni
+#ecologia/competizione
+#ecologia/dieta
+#ecologia/frugivoria
+#tipo/mammifero 
+
+---
+Evidenze scientifiche  
+In condizioni di sovrapposizione ecologica con la martora [[Martes martes]], la faina [[Martes foina]] mostra uno slittamento della propria nicchia trofica. In presenza del competitore forestale diminuisce il consumo di roditori, risorse ad alto contenuto proteico, e aumenta significativamente l'assunzione di frutti e altre risorse ricche di carboidrati. Questo cambiamento alimentare riduce la competizione diretta per le prede animali.
+
+Traduzione narrativa  
+Quando il territorio è attraversato dalle tracce di [[Martes martes]], [[Martes foina]] modifica la propria traiettoria alimentare. L’animale riduce gli inseguimenti rivolti ai piccoli mammiferi e orienta i propri movimenti verso arbusti e alberi fruttiferi. Il metabolismo si adatta a una dieta più ricca di zuccheri vegetali, trasformando la raccolta di frutti in una strategia per convivere con il competitore senza affrontarlo direttamente.
+
+Fonte  
+*Nutritional ecology provides insights into competitive interactions between closely related Martes species*
+
+#ecologia/interazioni
+#ecologia/competizione
+#ecologia/dieta
+#ecologia/frugivoria
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+In condizioni di sovrapposizione ecologica con la martora [[Martes martes]], la faina [[Martes foina]] mostra uno slittamento della propria nicchia trofica. In presenza del competitore forestale diminuisce il consumo di roditori, risorse ad alto contenuto proteico, e aumenta significativamente l'assunzione di frutti e altre risorse ricche di carboidrati. Questo cambiamento alimentare riduce la competizione diretta per le prede animali.
+
+Traduzione narrativa  
+Quando le tracce di [[Martes martes]] attraversano il territorio, [[Martes foina]] riorienta la propria strategia alimentare. Gli inseguimenti rivolti ai piccoli mammiferi si diradano e l’animale indirizza i propri spostamenti verso arbusti e alberi carichi di frutti. Il metabolismo si adatta a una dieta più ricca di zuccheri vegetali, trasformando la raccolta di bacche in una strategia per evitare il confronto diretto con il competitore.
+
+Fonte  
+*Nutritional ecology provides insights into competitive interactions between closely related Martes species*
+
+#ecologia/interazioni  
+#ecologia/competizione  
+#ecologia/dieta  
+#ecologia/frugivoria  
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+Nelle regioni del nord-ovest della Spagna in cui la faina [[Martes foina]] convive con la martora [[Martes martes]], si osserva uno spiazzamento ecologico a danno della prima. Nonostante l’abbondanza di piccoli mammiferi potenzialmente disponibili come prede, la faina non viene rilevata nei territori stabilmente occupati dalla martora, suggerendo una forte esclusione spaziale.
+
+Traduzione narrativa  
+Quando i territori sono già saturati dalle tracce territoriali di [[Martes martes]], [[Martes foina]] interrompe l’avanzata. Anche laddove i movimenti dei roditori rendono il suolo promettente, l’animale evita di attraversare i confini già marcati dal competitore forestale, sospendendo l’accesso a quelle porzioni di habitat.
+
+Fonte  
+*Monitoring the small-scale distribution of sympatric European pine martens (Martes martes) and stone martens (Martes foina): a multievidence approach using faecal DNA analysis and camera-traps*
+
+#ecologia/interazioni
+#ecologia/competizione
+#ecologia/uso_habitat
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+L’assenza della faina [[Martes foina]] nelle foreste estese e omogenee e la sua frequente associazione con ambienti antropizzati sono interpretate come conseguenza della competizione con la martora [[Martes martes]]. Quest’ultima occupa efficacemente gli habitat forestali, mentre la faina risulta più spesso rilevata in prossimità di villaggi, edifici rurali e altre strutture umane.
+
+Traduzione narrativa  
+Quando le foreste compatte sono presidiate da [[Martes martes]], [[Martes foina]] devia i propri movimenti verso le fratture del paesaggio umano. Granai, tetti e muri diventano rifugi alternativi dove l’animale installa il proprio dominio vitale, evitando le zone forestali stabilmente controllate dal competitore.
+
+Fonte  
+*Habitat requirements of the stone marten (Martes foina) on the Tyrrhenian slopes of the northern Apennines*
+
+#ecologia/interazioni
+#ecologia/competizione
+#ecologia/uso_habitat
+#ecologia/sinantropia
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+Nelle aree alpine in cui la martora [[Martes martes]] è assente o presente a bassa densità, la faina [[Martes foina]] occupa ampiamente gli ambienti forestali. In queste condizioni la specie utilizza i rifugi e la copertura offerti dal bosco e può raggiungere densità elevate all’interno degli habitat boscati.
+
+Traduzione narrativa  
+Quando il territorio forestale non è attraversato dalle tracce di [[Martes martes]], [[Martes foina]] estende liberamente i propri movimenti tra i tronchi e il sottobosco. L’animale utilizza cavità, radici e coperture vegetali come rifugi stabili, occupando pienamente lo spazio del bosco.
+
+Fonte  
+*Spatial ecology of the stone marten in an Alpine area: combining camera-trapping and genetic surveys*
+
+#ecologia/interazioni
+#ecologia/competizione
+#ecologia/uso_habitat
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+L’analisi comparata della dieta indica una ridotta sovrapposizione della nicchia trofica tra la faina [[Martes foina]] e la volpe rossa [[Vulpes vulpes]]. Le due specie simpatriche utilizzano risorse alimentari differenti, suggerendo una competizione limitata per il controllo delle risorse trofiche.
+
+Traduzione narrativa  
+Nel paesaggio notturno, le traiettorie alimentari di [[Martes foina]] e [[Vulpes vulpes]] scorrono parallele senza collidere. La faina orienta i propri movimenti verso risorse che il canide sfrutta meno intensamente, mantenendo una distanza trofica che riduce l’attrito tra i due predatori.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) in the Upper Aveto Valley (Northern Apennines, Italy)*
+
+#ecologia/interazioni
+#ecologia/competizione
+#ecologia/dieta
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+La faina [[Martes foina]] è ospite di diverse specie di zecche, tra cui [[Ixodes hexagonus]], ectoparassita ematofago associato ai carnivori. Le ninfe e gli adulti di questa specie possono essere rinvenuti ancorati al corpo dell’animale, nutrendosi del sangue dell’ospite.
+
+Traduzione narrativa  
+Sotto il mantello fitto di [[Martes foina]] si sviluppa un microcosmo invisibile. Tra i peli si annidano individui di [[Ixodes hexagonus]], che perforano la pelle per nutrirsi di piccole quantità di sangue. L’animale attraversa il paesaggio trasportando sul corpo questi parassiti silenziosi.
+
+Fonte  
+*Ticks parasitizing pine marten (Martes martes) and stone marten (M. foina) – a literature review and preliminary data*
+
+#ecologia/interazioni
+#ecologia/parassitismo
+#tipo/artropode
+
+---
+Evidenze scientifiche  
+La volpe rossa [[Vulpes vulpes]] è annoverata tra i carnivori in grado di predare la faina [[Martes foina]], collocandosi come predatore superiore all’interno della rete trofica.
+
+Traduzione narrativa  
+Durante gli spostamenti notturni [[Martes foina]] deve muoversi entro un paesaggio segnato dalla presenza di [[Vulpes vulpes]]. L’odore del canide segnala non un rivale ma un pericolo reale: la faina attraversa il territorio sfruttando coperture e rifugi per evitare l’incontro con un predatore di taglia maggiore.
+
+Fonte  
+Animal Diversity Web — *Martes foina (beech marten)*
+
+#ecologia/interazioni
+#ecologia/predazione
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+Il gufo reale [[Bubo bubo]] è documentato come predatore naturale della faina [[Martes foina]].
+
+Traduzione narrativa  
+Quando [[Martes foina]] attraversa spazi aperti durante la notte, il rischio proviene anche dall’alto. Il volo silenzioso di [[Bubo bubo]] trasforma le radure e i pendii scoperti in zone di pericolo, inducendo la faina a muoversi vicino a coperture e strutture del terreno.
+
+Fonte  
+Animal Diversity Web — *Martes foina (beech marten)*
+
+#ecologia/interazioni
+#ecologia/predazione
+#tipo/uccello
+
+---
+Evidenze scientifiche  
+È stato documentato un evento di spill-over del [[European bat lyssavirus type 1]] nell’organismo della faina [[Martes foina]] in Germania. Questo virus, associato ai pipistrelli europei, può infettare accidentalmente altri mammiferi ospiti.
+
+Traduzione narrativa  
+Attraversando carcasse o contatti infetti, [[Martes foina]] può incorporare nel proprio corpo particelle virali provenienti da altri vertebrati. Il virus penetra nell’organismo e utilizza i tessuti nervosi dell’animale come via di propagazione invisibile.
+
+Fonte  
+*Biology and Conservation of Musteloids*
+
+#ecologia/interazioni
+#ecologia/patogeni
+#tipo/virus
+
+---
+Evidenze scientifiche  
+Il topo selvatico [[Apodemus sylvaticus]] è raramente predato dalla faina [[Martes foina]] nonostante la sua abbondanza locale. L’elevata agilità e la rapidità di fuga di questo roditore riducono la redditività energetica della predazione.
+
+Traduzione narrativa  
+Nel sottobosco [[Martes foina]] percepisce i movimenti rapidi di [[Apodemus sylvaticus]], ma spesso interrompe l’avvio dell’agguato. La velocità imprevedibile del roditore rende l’attacco energeticamente inefficiente, spingendo la faina a rivolgere l’attenzione verso prede più accessibili.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/predazione
+#ecologia/dieta
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+L’arvicola di Savi [[Microtus savii]] è una delle prede frequenti della faina [[Martes foina]] negli ambienti aperti della pianura. La predazione di questa specie è proporzionale alla sua elevata disponibilità negli habitat agricoli e non boscati.
+
+Traduzione narrativa  
+Nei campi aperti [[Martes foina]] intercetta i movimenti sotterranei di [[Microtus savii]]. L’animale individua la traiettoria della preda tra le erbe e rompe la superficie con un attacco rapido, catturando l’arvicola che si muove nei corridoi del terreno.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/predazione
+#ecologia/dieta
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+L’arvicola rossastra [[Myodes glareolus]] (sin. [[Clethrionomys glareolus]]) è una componente ricorrente della dieta della faina [[Martes foina]], rappresentando una delle principali prede tra i micromammiferi forestali.
+
+Traduzione narrativa  
+Nel sottobosco [[Martes foina]] intercetta l’odore e i movimenti di [[Myodes glareolus]] tra radici e foglie morte. Con un attacco rapido la faina neutralizza l’arvicola, incorporando una delle principali fonti proteiche disponibili nell’ambiente forestale.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/predazione
+#ecologia/dieta
+#tipo/mammifero
+
+---
+---
+Evidenze scientifiche  
+La lepre europea [[Lepus europaeus]] è inclusa tra le prede della faina [[Martes foina]] negli ecosistemi agricoli di pianura. Il lagomorfo compare tra le specie consumate all’interno della dieta della faina.
+
+Traduzione narrativa  
+Negli spazi aperti delle campagne [[Martes foina]] intercetta i movimenti di [[Lepus europaeus]]. Quando le condizioni lo permettono, l’animale può tentare l’attacco contro il grande lagomorfo, trasformando l’incontro con una preda di dimensioni elevate in una significativa acquisizione di energia.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/predazione
+#ecologia/dieta
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+Il coniglio selvatico europeo [[Oryctolagus cuniculus]] è una delle prede lagomorfe utilizzate dalla faina [[Martes foina]] e compare regolarmente nella dieta della specie.
+
+Traduzione narrativa  
+Tra radure e margini agricoli [[Martes foina]] può intercettare gli spostamenti di [[Oryctolagus cuniculus]]. L’animale sfrutta opportunità di caccia quando il coniglio si espone fuori dalla copertura della vegetazione.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/predazione
+#ecologia/dieta
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+La faina [[Martes foina]] consuma frequentemente fichi di [[Ficus carica]], sfruttando questa risorsa vegetale coltivata o inselvatichita durante i periodi di disponibilità stagionale.
+
+Traduzione narrativa  
+Quando i frutti maturano sugli alberi di [[Ficus carica]], [[Martes foina]] integra la propria dieta con la polpa zuccherina dei fichi. L’animale sfrutta queste risorse vegetali come fonte energetica facilmente accessibile.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/frugivoria
+#ecologia/dieta
+#tipo/pianta
+
+---
+Evidenze scientifiche  
+La faina [[Martes foina]] consuma anche frutti appartenenti al genere [[Solanum]], includendoli tra le risorse vegetali utilizzate nella propria dieta.
+
+Traduzione narrativa  
+Muovendosi lungo margini di vegetazione e ambienti disturbati, [[Martes foina]] raccoglie e ingerisce i frutti di [[Solanum]], utilizzando queste risorse vegetali come integrazione alimentare.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/frugivoria
+#ecologia/dieta
+#tipo/pianta
+
+---
+Evidenze scientifiche  
+L’insettivoro [[Crocidura leucodon]] non è normalmente predato dalla faina [[Martes foina]], nonostante la co-occorrenza negli stessi ambienti di foraggiamento.
+
+Traduzione narrativa  
+Durante la ricerca di prede nel sottobosco o nei margini agricoli, [[Martes foina]] incontra talvolta [[Crocidura leucodon]]. Tuttavia l’animale tende a ignorare questo piccolo insettivoro e prosegue la ricerca verso prede più adatte.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/predazione
+#ecologia/dieta
+#tipo/mammifero
+
+---
+---
+Evidenze scientifiche  
+Il toporagno comune [[Sorex araneus]] non viene normalmente predato dalla faina [[Martes foina]]. Nonostante la presenza negli stessi ambienti di foraggiamento, questo insettivoro risulta sistematicamente escluso dalla dieta della specie.
+
+Traduzione narrativa  
+Durante la perlustrazione del sottobosco [[Martes foina]] può percepire i movimenti rapidi di [[Sorex araneus]] nella lettiera. Tuttavia l’animale non avvia l’attacco e prosegue la ricerca di prede più adatte, lasciando il piccolo insettivoro fuori dal proprio spettro alimentare.
+
+Fonte  
+*Food habits of the stone marten (Martes foina) (Mammalia: Carnivora) in plain areas of Northern Italy prior to pine marten (M. martes) spreading*
+
+#ecologia/interazioni
+#ecologia/predazione
+#ecologia/dieta
+#tipo/mammifero
+
+---
+---
+Evidenze scientifiche  
+La faina [[Martes foina]] consuma frequentemente le bacche di [[Vaccinium myrtillus]]. Dopo l’ingestione, i semi attraversano l’apparato digerente e vengono espulsi integri; il passaggio gastrico può favorire la germinazione tramite abrasione del rivestimento esterno.
+
+Traduzione narrativa  
+Tra i cespugli di [[Vaccinium myrtillus]] [[Martes foina]] ingerisce le bacche mature. I semi attraversano l’intestino dell’animale e vengono depositati altrove con le feci, contribuendo alla dispersione della pianta nel paesaggio forestale.
+
+Fonte  
+*Endozoochorous seed dispersal by martens (Martes foina, M. martes) in two woodland habitats*
+
+#ecologia/interazioni
+#ecologia/frugivoria
+#ecologia/dispersione_semi
+#tipo/pianta
+
+---
+---
+Evidenze scientifiche  
+La faina [[Martes foina]] consuma regolarmente i frutti del lampone [[Rubus idaeus]]. I semi attraversano il tratto digestivo senza perdere vitalità, permettendo una dispersione endozoocora efficace della specie vegetale.
+
+Traduzione narrativa  
+Quando incontra i cespugli di [[Rubus idaeus]], [[Martes foina]] ingerisce la polpa dei frutti maturi. I semi vengono trasportati all’interno dell’apparato digerente e successivamente espulsi in nuovi punti del territorio.
+
+Fonte  
+*Endozoochorous seed dispersal by martens (Martes foina, M. martes) in two woodland habitats*
+
+#ecologia/interazioni
+#ecologia/frugivoria
+#ecologia/dispersione_semi
+#tipo/pianta
+
+---
+Evidenze scientifiche  
+La faina [[Martes foina]] consuma abbondantemente i frutti del rovo ([[Rubus caesius]] / [[Rubus fruticosus]] agg.). I semi ingeriti rimangono integri durante il transito digestivo e vengono dispersi attraverso le feci.
+
+Traduzione narrativa  
+Attraversando i roveti, [[Martes foina]] ingerisce le more mature di [[Rubus caesius]] e [[Rubus fruticosus]]. I semi vengono trasportati all’interno dell’organismo e depositati successivamente nel territorio con le feci.
+
+Fonte  
+*Endozoochorous seed dispersal by martens (Martes foina, M. martes) in two woodland habitats*
+
+#ecologia/interazioni
+#ecologia/frugivoria
+#ecologia/dispersione_semi
+#tipo/pianta
+
+---
+Evidenze scientifiche  
+Le bacche tossiche appartenenti alla famiglia [[Liliaceae]] non vengono consumate dalla faina [[Martes foina]]. Nonostante la loro abbondanza nei boschi studiati, la specie evita sistematicamente questi frutti e non contribuisce alla dispersione dei loro semi.
+
+Traduzione narrativa  
+Durante l’esplorazione del sottobosco [[Martes foina]] incontra anche piante con bacche tossiche della famiglia [[Liliaceae]]. Tuttavia l’animale non ingerisce questi frutti e continua la ricerca di altre risorse alimentari.
+
+Fonte  
+*Endozoochorous seed dispersal by martens (Martes foina, M. martes) in two woodland habitats*
+
+#ecologia/interazioni
+#ecologia/frugivoria
+#tipo/pianta
+
+---
+---
+Evidenze scientifiche  
+In presenza di carnivori competitori di dimensioni maggiori come [[Meles meles]], la faina [[Martes foina]] tende a concentrare la propria attività nelle ore notturne. Questo spostamento temporale dell’attività riduce la probabilità di incontri diretti e quindi la competizione o il rischio di conflitto.
+
+Traduzione narrativa  
+In territori condivisi con [[Meles meles]], [[Martes foina]] concentra i propri movimenti nelle ore notturne. La faina evita le fasi di attività del tasso e attraversa il paesaggio soprattutto quando l’oscurità riduce le possibilità di incontro con il carnivoro più massiccio.
+
+Fonte  
+*Spatiotemporal activity of the pine marten Martes martes: Insights from an island population*
+
+#ecologia/interazioni  
+#ecologia/competizione  
+#ecologia/ritmi_attività  
+#tipo/mammifero
+
+
+---
+Evidenze scientifiche  
+La genetta [[Genetta genetta]] e la faina [[Martes foina]] possono utilizzare gli stessi rifugi diurni (come fienili o cavità riparate), occupandoli in momenti diversi senza mostrare una forte esclusione spaziale.
+
+Traduzione narrativa  
+All’interno di strutture riparate come fienili o edifici abbandonati, [[Martes foina]] può utilizzare rifugi che risultano frequentati anche da [[Genetta genetta]]. Le due specie sfruttano gli stessi ripari in momenti diversi, evitando il contatto diretto.
+
+Fonte  
+*Stone marten (Martes foina) habitat in a Mediterranean ecosystem: effects of scale, sex, and interspecific interactions*
+
+#ecologia/interazioni  
+#ecologia/rifugi  
+#ecologia/convivenza_specie  
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+In alcune aree alpine prive della martora [[Martes martes]], la faina [[Martes foina]] basa gran parte della propria dieta sulla predazione di micromammiferi, in particolare dell’arvicola rossastra [[Myodes glareolus]] (sin. *Clethrionomys glareolus*).
+
+Traduzione narrativa  
+Negli ambienti alpini in cui [[Martes martes]] è assente, [[Martes foina]] concentra l’attività di caccia sui micromammiferi del sottobosco. Tra le prede più frequenti compare [[Myodes glareolus]], che fornisce una quota significativa della dieta.
+
+Fonte  
+*Spatial ecology of the stone marten in an Alpine area: combining camera-trapping and genetic surveys*
+
+#ecologia/interazioni  
+#ecologia/predazione  
+#ecologia/dieta  
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+Il ghiro [[Glis glis]] rappresenta una preda rilevante nella dieta della faina [[Martes foina]] negli ambienti forestali montani, dove viene attivamente cacciato.
+
+Traduzione narrativa  
+Negli ambienti forestali di montagna [[Martes foina]] può predare [[Glis glis]]. Il roditore arboricolo viene catturato durante le attività notturne della faina e costituisce una fonte energetica importante.
+
+Fonte  
+*Spatial ecology of the stone marten in an Alpine area: combining camera-trapping and genetic surveys*
+
+#ecologia/interazioni  
+#ecologia/predazione  
+#ecologia/dieta  
+#tipo/mammifero
+
+---
+Evidenze scientifiche  
+I roditori del genere [[Apodemus]] compaiono regolarmente nella dieta della faina [[Martes foina]] negli ecosistemi alpini, dove rappresentano una componente frequente delle prede catturate.
+
+Traduzione narrativa  
+Durante le attività di caccia nei boschi montani, [[Martes foina]] intercetta frequentemente piccoli roditori del genere [[Apodemus]]. Questi micromammiferi costituiscono una parte ricorrente della dieta della specie.
+
+Fonte  
+*Spatial ecology of the stone marten in an Alpine area: combining camera-trapping and genetic surveys*
+
+#ecologia/interazioni  
+#ecologia/predazione  
+#ecologia/dieta  
+#tipo/mammifero
+
