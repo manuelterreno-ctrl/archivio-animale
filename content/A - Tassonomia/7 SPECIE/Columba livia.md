@@ -1,4 +1,3 @@
-
 ## *Piccione urbano*
 
 #tipo/uccello  
