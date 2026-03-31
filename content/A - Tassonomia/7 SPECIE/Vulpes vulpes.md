@@ -477,7 +477,7 @@ Fonte: Ecology of the red fox (*Vulpes vulpes*) in an agricultural landscape. 1.
 ### Evidenze scientifiche  
 *V. vulpes* scava tane nel suolo o riutilizza sistemi di gallerie di [[Oryctolagus cuniculus]]. Seleziona terreni sabbiosi, porosi e ben drenati, con basso contenuto di argilla, che facilitano lo scavo e riducono il rischio di allagamento. Le tane presentano ingressi multipli (in media circa tre, fino a undici), che aumentano le possibilità di fuga e riducono il rischio di predazione. In suoli ad alto contenuto di argilla, l’animale evita lo scavo e utilizza rifugi alternativi come canali di scolo, cavità alla base degli alberi o tronchi caduti.
 
-Temi trasversali: [[tana]] · [[strategia anti-predatoria]] · [[habitat]]
+Temi trasversali: [[tana]] · [[strategia anti-predatoria]] · [[Habitat]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* seleziona il suolo in base alla sua lavorabilità. *V. vulpes* scava in terreni sabbiosi o riutilizza le gallerie di [[Oryctolagus cuniculus]], costruendo sistemi con più aperture. In presenza di suoli argillosi, abbandona lo scavo e occupa rifugi alternativi come condotti artificiali o cavità naturali.
@@ -676,7 +676,7 @@ Fonte: Ecological and Anthropogenic Drivers of Red Fox (*Vulpes vulpes*) Abundan
 ### Evidenze scientifiche  
 La presenza di acqua permanente influenza fortemente i movimenti di *V. vulpes*. La specie mostra una preferenza per aree prossime a fonti idriche sia su scala territoriale sia a livello di micro-habitat (<100 m). Le aree umide offrono risorse trofiche concentrate, percorsi favorevoli e maggiore copertura vegetale.
 
-Temi trasversali: [[uso dello spazio]] · [[risorse ambientali]] · [[habitat]]
+Temi trasversali: [[uso dello spazio]] · [[risorse ambientali]] · [[Habitat]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* struttura i propri spostamenti attorno alle fonti d’acqua. *V. vulpes* utilizza le zone ripariali come corridoi di movimento e aree di foraggiamento, sfruttando la concentrazione di risorse e la copertura vegetale.
@@ -733,7 +733,7 @@ Fonte: Parametri ambientali e uso dell'habitat della volpe *Vulpes vulpes* (L., 
 ### Evidenze scientifiche  
 Le dimensioni dell’home range di *V. vulpes* variano in funzione della produttività dell’habitat: minime nelle aree rurali (circa 131 ha), intermedie nell’ecotone costiero (213 ha) e massime nella pineta (330 ha). La specie seleziona la macchia mediterranea come habitat preferenziale, soprattutto in inverno, mentre in estate utilizza maggiormente gli spazi aperti. L’uso della pineta è inversamente correlato alla disponibilità di risorse: la presenza concentrata di bacche induce permanenze brevi e mirate.
 
-Temi trasversali: [[home range]] · [[uso dello spazio]] · [[habitat]]
+Temi trasversali: [[home range]] · [[uso dello spazio]] · [[Habitat]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* modula l’estensione del proprio spazio vitale in relazione alla disponibilità di risorse. *V. vulpes* riduce il proprio raggio d’azione negli ambienti agricoli e lo amplia nella pineta. Utilizza la macchia mediterranea come rifugio stabile e frequenta gli spazi aperti nei mesi caldi, entrando nella pineta solo per sfruttare risorse concentrate e abbandonandola rapidamente.
@@ -804,7 +804,7 @@ Fonte: Environmental factors influencing the use of habitat in the red fox, *Vul
 ### Evidenze scientifiche  
 A livello spaziale, *V. vulpes* utilizza selettivamente diversi habitat. La macchia mediterranea rappresenta l’ambiente principale, utilizzato estensivamente nei mesi freddi. I prati vengono frequentati soprattutto nei mesi caldi, mentre la pineta costituisce un habitat complementare.
 
-Temi trasversali: [[uso dello spazio]] · [[habitat]] · [[selezione dell'habitat]]
+Temi trasversali: [[uso dello spazio]] · [[Habitat]] · [[selezione dell'habitat]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* alterna l’uso degli ambienti in base alle condizioni stagionali. *V. vulpes* utilizza la macchia mediterranea come rifugio principale nei mesi freddi e si sposta nei prati durante la stagione calda, attraversando anche la pineta.
@@ -890,7 +890,7 @@ Fonte: The foraging ecology of the red fox (*Vulpes vulpes*) in a Danish polder,
 ### Evidenze scientifiche  
 *Vulpes vulpes* è un canide estremamente adattabile, in grado di colonizzare habitat molto eterogenei, dagli ambienti naturali a quelli urbani, pur prediligendo aree che offrano rifugi, nascondigli e tane. Il suo territorio di competenza è ampiamente variabile, coprendo un'estensione che va dai 10 ai 2000 ettari. Dal punto di vista morfologico, la specie presenta una corporatura snella, un peso compreso tra i 4 e i 9 kg, una folta e lunga coda, arti proporzionalmente brevi, orecchie grandi e alte e un muso lungo e appuntito. Non manifesta un dimorfismo sessuale marcato, sebbene i maschi risultino mediamente più robusti.
 
-Temi trasversali: [[adattabilità]] · [[habitat]] · [[morfologia]]
+Temi trasversali: [[adattabilità]] · [[Habitat]] · [[morfologia]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* modella la propria presenza in base agli ostacoli e alle risorse del terreno, insinuandosi tanto nei boschi intricati quanto nei margini delle città. *V. vulpes* delimita perimetri d'azione estremamente variabili, cercando costantemente zone frammentate che le garantiscano ripari fisici immediati. *V. vulpes* si muove rasoterra sui suoi arti corti, bilanciando il peso con la folta coda. Il suo muso stretto e appuntito e le grandi orecchie diritte esplorano in continuazione l'ambiente. Tra maschi e femmine non vi sono differenze visibili: entrambi esibiscono la stessa pelliccia bruno-fulva, aggirandosi sul territorio con identica conformazione fisica.
@@ -933,7 +933,7 @@ Fonte: Operatore Faunistico 2025 VOLPE
 ### Evidenze scientifiche  
 *Vulpes vulpes* presenta una notevole plasticità ecologica che le consente di frequentare un'ampia varietà di ambienti, dalle aree montane e costiere fino alle zone urbane e alle pianure ad agricoltura intensiva. Morfologicamente possiede una corporatura snella, zampe corte, muso allungato, orecchie dritte e larghe alla base, e una lunga coda folta con la punta bianca. Il peso varia dai 4,5 ai 12 chilogrammi, con individui che vivono ad alte quote che presentano dimensioni mediamente maggiori rispetto a quelli di pianura o costa. Il mantello è generalmente rosso fulvo, ma può assumere anche colorazioni argentate o brune.
 
-Temi trasversali: [[adattabilità]] · [[habitat]] · [[morfologia]]
+Temi trasversali: [[adattabilità]] · [[Habitat]] · [[morfologia]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* attraversa ogni tipo di paesaggio, dai boschi di montagna alle coste salmastre, spingendosi fino ai margini dell'asfalto e nei campi coltivati delle pianure. *V. vulpes* si muove rasoterra sulle zampe corte, bilanciando il peso del corpo con la lunga coda folta dalla punta bianca. Il suo muso stretto fende l'aria, sormontato da orecchie dritte e sempre all'erta. Il suo mantello si accende solitamente dei toni del rosso fulvo, ma talvolta si scurisce nel bruno o si fa argenteo, avvolgendo corpi che si irrobustiscono e si fanno più massicci man mano che l'animale sale verso il gelo delle alte quote.
@@ -1105,7 +1105,7 @@ Fonte: Ecology of Red Fox (*Vulpes vulpes*) in the Lassen Peak Region of Califor
 ### Evidenze scientifiche  
 In estate l'animale utilizza selettivamente habitat di alta quota, frequentando le foreste di conifere subalpine, le formazioni rocciose, i pendii detritici e le zone prive di vegetazione situate oltre il limite degli alberi, mentre evita le foreste di media quota. Per il riposo diurno non scava tane sotterranee in terra, ma elegge siti di superficie: si rifugia all'interno di cavità naturali tra i massi, si appiatta sotto i rami delle conifere abbassati dal peso della neve o si nasconde in fitti e giovani boschetti di abeti rossi.
 
-Temi trasversali: [[habitat]] · [[rifugio]] · [[uso dello spazio]]
+Temi trasversali: [[Habitat]] · [[rifugio]] · [[uso dello spazio]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* domina le alte quote, muovendosi tra le conifere subalpine, le rocce nude e i pendii spogli oltre il limite della vegetazione. Quando il sole si alza e interrompe le ore di caccia, cerca riposo emergendo in superficie, rifiutando di inabissarsi in gallerie di terra. *V. vulpes* rallenta il respiro e si appiatta nelle cavità naturali tra i grandi massi, si rintana sotto i rami degli alberi piegati dalla neve, oppure lascia che il suo corpo rosso si confonda nelle fitte ombre dei boschetti di abeti.
@@ -1204,7 +1204,7 @@ Fonte: Ecology of Red Fox (*Vulpes vulpes*) in the Lassen Peak Region of Califor
 ### Evidenze scientifiche  
 *Vulpes vulpes* è una specie ampiamente diffusa in territorio anatolico che manifesta un chiaro comportamento ecologico generalista. La sua presenza e i suoi spostamenti non sono condizionati o limitati in modo significativo dall'altitudine né dalla struttura o dalla percentuale di copertura della vegetazione. L'animale frequenta e si muove trasversalmente in una grande varietà di habitat forestali e arbustivi.
 
-Temi trasversali: [[generalismo ecologico]] · [[uso dello spazio]] · [[habitat]]
+Temi trasversali: [[generalismo ecologico]] · [[uso dello spazio]] · [[Habitat]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* attraversa il paesaggio anatolico adattandosi a ogni conformazione del terreno. *V. vulpes* non si fa frenare dai dislivelli della montagna né dalla densità degli arbusti: cammina indifferentemente lungo i pendii aperti o sotto le chiome chiuse degli alberi. In questo modo impone una presenza costante ed elastica, muovendosi come un esploratore trasversale capace di penetrare in ogni frammento del territorio.
@@ -1276,7 +1276,7 @@ Fonte: Seasonal changes of trophic niche overlap in the stone marten (*Martes fo
 ### Evidenze scientifiche  
 Il peso di *Vulpes vulpes* varia da 7 a 15 libbre e il corpo occupa territori che spaziano da 2–5 miglia quadrate negli habitat ottimali fino a 8–20 miglia quadrate in quelli più poveri. Frequenta i margini delle foreste, i campi coltivati e le aree limitrofe alle paludi, prediligendo ambienti con vegetazione diversificata. Il territorio viene difeso e occupato per l'intera vita da un maschio adulto e da una o due femmine con i loro piccoli.
 
-Temi trasversali: [[uso dello spazio]] · [[territorialità]] · [[ecotono]] · [[habitat]]
+Temi trasversali: [[uso dello spazio]] · [[territorialità]] · [[ecotono]] · [[Habitat]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* fissa i propri percorsi ai margini, dove il bosco si interrompe e cede il passo ai campi coltivati e alle paludi. *V. vulpes* occupa un'area vitale definita che pattuglia e difende per l'intera esistenza. Negli habitat ricchi restringe i movimenti a poche miglia quadrate, mentre nelle zone povere estende le esplorazioni per garantire la sopravvivenza. All'interno di questi confini si muove in modo solitario, condividendo stabilmente lo spazio con un maschio e una o due femmine.
@@ -1375,7 +1375,7 @@ Fonte: Wetlands Mammals – Red Fox (UT_WingsWater_WetlandsMammals_Jan19.pdf)
 ### Evidenze scientifiche  
 *Vulpes vulpes* è un onnivoro opportunista caratterizzato da un’elevata versatilità ecologica. Frequenta un’ampia gamma di habitat, dalla tundra ai deserti non estremi, dalle brughiere alle foreste, occupando un gradiente altitudinale che va dal livello del mare fino a circa 4500 metri, superando anche il limite degli alberi. Mostra una preferenza per ambienti asciutti e misti, ricchi di ecotoni tra bosco e macchia arbustiva. Sfrutta attivamente gli ambienti antropizzati, risultando abbondante nelle aree agricole e stabilendosi anche nei contesti urbani, con preferenza per i sobborghi residenziali rispetto alle aree industriali. Questa plasticità ecologica e trofica consente alla specie di mantenere popolazioni stabili anche in paesaggi fortemente modificati dall’uomo.
 
-Temi trasversali: [[plasticità ecologica]] · [[habitat]] · [[ecotono]] · [[sinantropia]] · [[dieta onnivora]]
+Temi trasversali: [[plasticità ecologica]] · [[Habitat]] · [[ecotono]] · [[sinantropia]] · [[dieta onnivora]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* non si vincola a un solo ambiente, ma attraversa configurazioni estreme del territorio. *V. vulpes* percorre tundre, deserti e sistemi montani, superando i limiti altitudinali della vegetazione. Si muove lungo i margini, dove gli ambienti si trasformano e si sovrappongono. Penetra negli spazi modellati dall’uomo, attraversando i paesaggi agricoli e occupando i sobborghi urbani. In questi contesti modifica continuamente i propri percorsi e le proprie scelte alimentari, mantenendo la presenza anche in territori profondamente alterati.
@@ -1461,7 +1461,7 @@ Fonte: Vulpes_vulpes_rev_letteratura.pdf
 ### Evidenze scientifiche  
 *V. vulpes* costruisce complessi sistemi di tane sotterranee, anche con oltre 20 ingressi, in suoli misti di sabbia e argilla, spesso localizzati in prossimità di acqua, margini forestali o elementi lineari del paesaggio. La specie pratica il den-sharing, condividendo temporaneamente o spazialmente le tane con altre specie come il [[Meles meles]], gli istrici e la [[Martes foina]]. Attraverso lo scavo e l’accumulo di nutrienti, contribuisce alla modificazione del suolo e all’aumento dell’eterogeneità vegetazionale, agendo come ingegnere ecosistemico.
 
-Temi trasversali: [[rifugio]] · [[ingegneria ecosistemica]] · [[interazioni tra specie]] · [[habitat]]
+Temi trasversali: [[rifugio]] · [[ingegneria ecosistemica]] · [[interazioni tra specie]] · [[Habitat]]
 
 ### Traduzione narrativa  
 Per costruire i propri rifugi, *Vulpes vulpes* scava nel terreno selezionando suoli adatti alla penetrazione. *V. vulpes* realizza sistemi sotterranei articolati e li colloca in punti strategici del territorio. Condivide talvolta questi spazi con specie come il [[Meles meles]] e la [[Martes foina]], utilizzandoli in tempi distinti. Attraverso lo scavo e l’accumulo di materia organica, modifica le caratteristiche del suolo e contribuisce alla trasformazione del microhabitat circostante.
@@ -1576,7 +1576,7 @@ Fonte: Living with the enemy: activity rhythms of the red fox *Vulpes vulpes* (C
 ### Evidenze scientifiche  
 *Vulpes vulpes* è in grado di occupare una grande varietà di habitat, inclusi ambienti urbani, alpini e zone aride. Al di fuori delle aree urbanizzate, la densità della specie risulta maggiore nelle zone boschive rade inserite in paesaggi agricoli, che offrono una combinazione di rifugi e risorse trofiche.
 
-Temi trasversali: [[habitat]] · [[plasticità ecologica]] · [[ecotono]]
+Temi trasversali: [[Habitat]] · [[plasticità ecologica]] · [[ecotono]]
 
 ### Traduzione narrativa  
 *Vulpes vulpes* attraversa ambienti estremamente diversi, dalle città alle zone alpine e aride. *V. vulpes* si insedia con maggiore frequenza nei paesaggi agricoli frammentati, dove i boschi radi forniscono rifugi e percorsi di caccia.
